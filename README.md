@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 
 ---
 
-⭐ 从 [shawnwang15](https://github.com/shawnwang15) 开源世界里发现更多有趣的仓库吧！
+![Metrics](https://metrics.lecoq.io/shawnwang15?template=classic&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Asia%2FShanghai)
