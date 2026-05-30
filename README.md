@@ -50,11 +50,10 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 我的 GitHub 统计 (GitHub Stats)
+### 📊 我的 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shawnwang15&show_icons=true&theme=radical&rank_icon=github" alt="shawnwang15's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnwang15&layout=compact&theme=radical" alt="shawnwang15's Top Langs" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shawnwang15&theme=radical" height="180px" />
 </p>
 
 ---
