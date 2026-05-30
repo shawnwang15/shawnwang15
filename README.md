@@ -20,8 +20,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=shawnwang15&label=Profile%20views&color=0e75b6&style=flat" alt="shawnwang15" />
 </p>
 
-> 💡 "Stay hungry, stay foolish."
-> 欢迎来到 my GitHub 主页！我是一名热爱技术、喜欢探索的开发者。
+![Metrics](https://metrics.lecoq.io/shawnwang15?template=classic&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Asia%2FShanghai)
 
 ---
 
@@ -50,12 +49,9 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 我的 GitHub
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shawnwang15&theme=radical" height="180px" />
 </p>
 
 ---
 
-![Metrics](https://metrics.lecoq.io/shawnwang15?template=classic&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Asia%2FShanghai)
